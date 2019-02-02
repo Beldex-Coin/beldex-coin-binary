@@ -1,15 +1,8 @@
-# Beldex - Forked from MoneroV
+# Beldex
 
 Copyright (c) 2018 The Beldex Project.   
-Copyright (c) 2014-2018 The Beldex Project.   
-Portions Copyright (c) 2012-2013 The Cryptonote and Monerov developers.
-
-## Build
-
-| Operating System      | Processor | Build |
-| --------------------- | -------- |--------|
-| Ubuntu 16.04          |  amd64   | [![Ubuntu 16.04 amd64](https://build.monerov.org/png?builder=monerov-static-ubuntu-amd64)](https://build.monerov.org/builders/monerov-static-ubuntu-amd64)
-| OSX 10.12             |  amd64   | [![OSX 10.12 amd64](https://build.monerov.org/png?builder=monerov-static-osx-10.12)](https://build.monerov.org/builders/monerov-static-osx-10.12)
+Copyright (c) 2014-2018 The Monero Project.   
+Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Introduction
 
