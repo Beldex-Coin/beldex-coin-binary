@@ -45,6 +45,8 @@ service](utils/systemd/beldexd.service) assumes that the user `beldex` exists
 and its home is the data directory specified in the [example
 config](utils/conf/beldexd.conf).
 
+For running the testnet daemon mention `--testnet` while starting the daemon
+
 If you're on Mac, you may need to add the `--max-concurrency 1` option to
 beldex-wallet-cli, and possibly beldexd, if you get crashes refreshing.
 
